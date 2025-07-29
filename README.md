@@ -107,4 +107,7 @@ Tools like Jira help but require manual work and lack intelligent automation.
 This platform merges AI, Agile methodologies, and chatbot interaction into one solution. It simplifies Scrum processes, boosts team productivity, and reduces management overhead through automation and intuitive design.
 
 ---
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
 
