@@ -1,11 +1,11 @@
 # Graduation_Project
-# 📌 AI-Powered Agile Project Management Platform
+#  AI-Powered Agile Project Management Platform
 
 An intelligent, web-based Agile project management platform that automates Scrum tasks and enhances team collaboration using AI and a smart chatbot.
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Many software teams face:
 
@@ -19,7 +19,7 @@ Tools like Jira help but require manual work and lack intelligent automation.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Develop a web-based Agile/Scrum platform  
 - Build an AI-powered virtual Scrum Master  
@@ -30,9 +30,9 @@ Tools like Jira help but require manual work and lack intelligent automation.
 
 ---
 
-## 📦 Project Scope
+##  Project Scope
 
-### ✅ Included
+###  Included
 
 - Project/sprint/task management  
 - AI-assisted task generation and sprint planning  
@@ -40,26 +40,26 @@ Tools like Jira help but require manual work and lack intelligent automation.
 - Real-time team performance tracking  
 - GitHub integration for commit linking  
 
-### ❌ Not Included (V1)
+###  Not Included (V1)
 
 - Integration with external tools like Slack/Trello  
 - Mobile application  
 
 ---
 
-## 🔍 Main Features
+##  Main Features
 
-- **📊 Project Dashboard** – Overview of projects, members, stats  
-- **✅ Task Management** – Create, assign, track tasks with status/priority  
-- **📅 Sprint Management** – Burndown charts, sprint status  
-- **🤖 AI Scrum Master** – Auto-generates tasks, assigns roles  
-- **💬 Smart Chatbot** – Handles commands, schedules meetings, summarizes updates  
-- **🔗 GitHub Integration** – Tracks commits and links to tasks  
-- **📈 Performance Reports** – Visual analytics for progress and efficiency  
+- ** Project Dashboard** – Overview of projects, members, stats  
+- ** Task Management** – Create, assign, track tasks with status/priority  
+- ** Sprint Management** – Burndown charts, sprint status  
+- ** AI Scrum Master** – Auto-generates tasks, assigns roles  
+- ** Smart Chatbot** – Handles commands, schedules meetings, summarizes updates  
+- ** GitHub Integration** – Tracks commits and links to tasks  
+- ** Performance Reports** – Visual analytics for progress and efficiency  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js (Express) / Python (Flask)  
@@ -71,7 +71,7 @@ Tools like Jira help but require manual work and lack intelligent automation.
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 - Frontend communicates with backend via REST APIs  
 - Backend handles business logic and user roles  
@@ -81,7 +81,7 @@ Tools like Jira help but require manual work and lack intelligent automation.
 
 ---
 
-## ✅ Expected Outcome
+##  Expected Outcome
 
 - A fully working Agile PM platform  
 - Built-in AI for task generation & sprint planning  
@@ -91,7 +91,7 @@ Tools like Jira help but require manual work and lack intelligent automation.
 
 ---
 
-## ⚠️ Risks & Challenges
+##  Risks & Challenges
 
 | Risk                               | Mitigation Plan                                 |
 |------------------------------------|--------------------------------------------------|
@@ -102,7 +102,7 @@ Tools like Jira help but require manual work and lack intelligent automation.
 
 ---
 
-## 🧾 Conclusion
+##  Conclusion
 
 This platform merges AI, Agile methodologies, and chatbot interaction into one solution. It simplifies Scrum processes, boosts team productivity, and reduces management overhead through automation and intuitive design.
 
