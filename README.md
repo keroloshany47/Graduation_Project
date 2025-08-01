@@ -49,13 +49,13 @@ Tools like Jira help but require manual work and lack intelligent automation.
 
 ##  Main Features
 
-- ** Project Dashboard** – Overview of projects, members, stats  
-- ** Task Management** – Create, assign, track tasks with status/priority  
-- ** Sprint Management** – Burndown charts, sprint status  
-- ** AI Scrum Master** – Auto-generates tasks, assigns roles  
-- ** Smart Chatbot** – Handles commands, schedules meetings, summarizes updates  
-- ** GitHub Integration** – Tracks commits and links to tasks  
-- ** Performance Reports** – Visual analytics for progress and efficiency  
+- **Project Dashboard** – Overview of projects, members, stats  
+- **Task Management** – Create, assign, track tasks with status/priority  
+- **Sprint Management** – Burndown charts, sprint status  
+- **AI Scrum Master** – Auto-generates tasks, assigns roles  
+- **Smart Chatbot** – Handles commands, schedules meetings, summarizes updates  
+- **GitHub Integration** – Tracks commits and links to tasks  
+- **Performance Reports** – Visual analytics for progress and efficiency  
 
 ---
 
@@ -107,7 +107,7 @@ Tools like Jira help but require manual work and lack intelligent automation.
 This platform merges AI, Agile methodologies, and chatbot interaction into one solution. It simplifies Scrum processes, boosts team productivity, and reduces management overhead through automation and intuitive design.
 
 ---
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](./LICENSE).
 
